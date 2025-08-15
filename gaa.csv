@@ -1,0 +1,168 @@
+Timestamp,CleanedTImestamp,Team,Player Number,Event Type,Possession Start?,Possession Start?,Possession End?,Shot Attempt?,Shot Outcome,Kick-out?,Kick-out Winner (Team),Turnover?,Score Value,Galway Goals,Galway Points,Cork Goals,Cork Points,Total Score for Cork,Total Score for Galway,Total Possession Count for Cork(auto-calculated),Total Possession Count for Galway(auto-calculated),Productivity for Cork (auto-calculated),Productivity for Galway (auto-calculated),Notes
+29:43:00,00:29:43,Galway,9,Center Throw-in Win,Yes,1,No,No,N/A,No,N/A,No,"0.00,0.00",0,0,0,0,0,,0,1,,,Galway won the Center throw-in
+29:23:00,00:29:23,Galway,15,Wide,No,0,Yes,Yes,Wide,No,N/A,No,"0.00,0.00",0,0,0,0,0,,0,0,,,
+29:10:00,00:29:10,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,No,"0.00,0.00",0,0,0,0,0,,0,0,,,Cork kick-out after Galway wide
+29:08:00,00:29:08,Cork,8,Possession,No,0,No,No,N/A,No,N/A,No,"0.00,0.00",0,0,0,0,0,,0,0,,,Possession retained
+28:30:00,00:28:30,Galway,,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.00,0.00",0,0,0,0,0,,1,1,0,,Galway intercepted Cork pass
+28:03:00,00:28:03,Cork,6,Foul Committed,No,0,No,No,N/A,No,N/A,No,"0.00,0.00",0,0,0,0,0,,1,0,0,,Cork foul on Galway; referee gave free kick
+27:44:00,00:27:44,Galway,,Point Scores,No,0,Yes,Yes,Point,No,N/A,No,"0.00, 0.01",0,1,0,0,0,,1,0,0,,Galway scored a point
+27:30:00,00:27:30,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,No,"0.00, 0.01",0,0,0,0,0,,1,0,0,,Restart after Galway point
+27:26:00,00:27:26,Cork,9,Possession,No,0,No,No,N/A,No,N/A,No,"0.00, 0.01",0,0,0,0,0,,1,0,0,,Cork retained possession from kick-out
+26:36:00,00:26:36,Galway,14,Foul Committed,No,0,No,No,N/A,No,N/A,No,"0.00, 0.01",0,0,0,0,0,,1,0,0,,Galway foul on Cork; free awarded to Cork
+26:16:00,00:26:16,Cork,14,Free Kick,No,0,No,No,N/A,No,N/A,No,"0.00, 0.01",0,0,0,0,0,,1,0,0,,Resumed play after foul
+25:45:00,00:25:45,Galway,7,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.00, 0.01",0,0,0,0,0,,2,1,0,,Galway gains possession from Cork
+25:26:00,00:25:26,Galway,15,Point Scores,No,0,Yes,Yes,Point,Yes,N/A,No,"0.00, 0.02",0,1,0,0,0,,2,0,0,,Galway scores a point after shot
+24:58:00,00:24:58,Cork,Goal Keeper,Kick Out,Yes,1,Yes,No,N/A,Yes,Galway,Yes,"0.00, 0.02",0,0,0,0,0,,2,0,0,,Cork kick-out won by Galway
+24:57:00,00:24:57,Galway,11,Possession,Yes,1,No,No,N/A,No,N/A,No,"0.00, 0.02",0,0,0,0,0,,3,1,0,,Galway wins possession from kick-out
+24:55:00,00:24:55,Cork,6,Foul Committed,No,0,No,No,N/A,No,N/A,No,"0.00, 0.02",0,0,0,0,0,,3,0,0,,Foul by Cork on Galway after kick-out win
+24:30:00,00:24:30,Galway,15,Wide,No,0,Yes,Yes,Wide,No,N/A,No,"0.00, 0.02",0,0,0,0,0,,3,0,0,,Galway shot goes wide
+24:14:00,00:24:14,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,No,"0.00, 0.02",0,0,0,0,0,,3,0,0,,restarted after Galway wide
+24:12:00,00:24:12,Cork,6,Possession,No,0,No,No,N/A,No,N/A,No,"0.00, 0.02",0,0,0,0,0,,3,0,0,,Cork retained possession from kick-out
+23:24,00:23:24,Galway,3,Foul Committed,No,0,No,No,N/A,No,N/A,No,"0.00, 0.02",0,0,0,0,0,,3,0,0,,Foul by Galway on Cork; free awarded
+23:07,00:23:07,Cork,14,Point Scores,No,0,Yes,Yes,Point,Yes,N/A,No,"0.01, 0.02",0,0,0,1,1,,3,0,3.333333333,,Cork scored a point after foul
+22:56,00:22:56,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,No,"0.01, 0.02",0,0,0,0,1,,4,1,2.5,,Galway kick-out after Cork point
+22:55,00:22:55,Galway,,Possession,No,0,No,No,N/A,No,N/A,No,"0.01, 0.02",0,0,0,0,1,,4,0,2.5,,Galway player received kick-out cleanly
+22:23,00:22:23,Cork,8,Injury,No,0,No,No,N/A,No,N/A,No,"0.01, 0.02",0,0,0,0,1,,4,0,2.5,,Cork player fell; referee stopped play; no foul
+22:16,00:22:16,Galway,5,Free Kick,No,0,No,No,N/A,No,N/A,No,"0.01, 0.02",0,0,0,0,1,,4,0,2.5,,Restarted play after stoppage; Galway kept ball
+22:04,00:22:04,Galway,10,Wide,No,0,Yes,Yes,Wide,Yes,N/A,No,"0.01, 0.02",0,0,0,0,1,,4,0,2.5,,Galway shot goes wide
+21:51,00:21:51,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,No,"0.01, 0.02",0,0,0,0,1,,4,0,2.5,,Cork GK restarts after Galway wide
+21:49,00:21:49,Cork,9,Possession,No,0,No,No,N/A,No,N/A,No,"0.01, 0.02",0,0,0,0,1,,4,0,2.5,,Cork retained kick-out cleanly
+21:13,00:21:13,Galway,3,Foul Committed,No,0,No,No,N/A,No,N/A,No,"0.01, 0.02",0,0,0,0,1,,4,0,2.5,,Galway foul on Cork player; free awarded
+20:45,00:20:45,Cork,14,Point Scores,No,0,Yes,Yes,Point,Yes,N/A,No,"0.02,0.02",0,0,0,1,2,,4,0,5,,Cork scored a point from free kick
+20:34,00:20:34,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,No,"0.02,0.02",0,0,0,0,2,,5,1,4,,Galway restarts after Cork point
+20:33,00:20:33,Galway,7,Possession,No,0,No,No,N/A,No,N/A,No,"0.02,0.02",0,0,0,0,2,,5,0,4,,Galway player caught kick-out cleanly
+20:28,00:20:28,Cork,10,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.02,0.02",0,0,0,0,2,,5,0,4,,Cork intercepted from Galway GK
+20:22,00:20:22,Cork,13,Point Scores,No,0,Yes,Yes,Point,No,N/A,No,"0.03, 0.02",0,0,0,1,3,,5,0,6,,Cork scored a point
+19:13,00:19:13,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,No,"0.03, 0.02",0,0,0,0,3,,6,1,5,,Galway restarts after Cork point
+19:11,00:19:11,Galway,4,Possession,No,0,No,No,N/A,No,N/A,No,"0.03, 0.02",0,0,0,0,3,,6,0,5,,Galway player caught the ball from GK
+18:12,00:18:12,Galway,15,Shot,No,0,Yes,Yes,Missed Goal,Yes,N/A,No,"0.03, 0.02",0,0,0,0,3,,6,0,5,,Galway attempted goal shot; missed net
+17:50,00:17:50,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,No,"0.03, 0.02",0,0,0,0,3,,6,0,5,,Cork restart after Galway missed goal
+17:46,00:17:46,Galway,14,Possession,Yes,1,No,No,N/A,No,N/A,Yes,"0.03, 0.02",0,0,0,0,3,,7,1,4.285714286,,Galway intercepted Cork's kick-out
+17:38,00:17:38,Cork,15,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.03, 0.02",0,0,0,0,3,,7,0,4.285714286,,Cork gained possession from Galway turnover
+17:31,00:17:31,Galway,9,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.03,0.02",0,0,0,0,3,,8,1,3.75,,Galway gained possession from Cork turnover
+17:25,00:17:25,Cork,5,Foul Committed,No,0,No,No,N/A,No,N/A,No,"0.03,0.02",0,0,0,0,3,,8,0,3.75,,Cork foul on Galway; free awarded to Galway
+16:35,00:16:35,Galway,15,Free Kick,No,0,Yes,Yes,Goal,Yes,N/A,No,"0.03, 1.02",1,0,0,0,3,,8,0,3.75,,Galway scored goal from a free kick
+16:17,00:16:17,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,No,"0.03, 1.02",0,0,0,0,3,,8,0,3.75,,Kick-out after Galway goal
+16:16,00:16:16,Cork,9,Possession,No,0,No,No,N/A,No,N/A,No,"0.03, 1.02",0,0,0,0,3,,8,0,3.75,,Cork player caught the ball from GK
+15:56,00:15:56,Galway,12,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.03, 1.02",0,0,0,0,3,,9,1,3.333333333,,Galway gained possession from Cork turnover
+15:15,00:15:15,Galway,15,Long Kick,No,0,Yes,No,N/A,No,N/A,,"0.03, 1.02",0,0,0,0,3,,9,0,3.333333333,,Galway player sent a long ball forward
+15:09,00:15:09,Cork,Goal Keeper,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.03, 1.02",0,0,0,0,3,,9,0,3.333333333,,Cork goalkeeper caught Galway's long kick
+15:01,00:15:01,Galway,4,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0.03, 1.02",0,0,0,0,3,,10,1,3,,Galway wins back possession from Cork
+14:13,00:14:13,Galway,10,Shot Attempt,No,0,Yes,Yes,Unsuccessful wide,No,N/A,No,"0--03,1--02",0,0,0,0,3,,10,0,3,,Shot went wide
+13:56,00:13:56,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,No,"0--03,1--02",0,0,0,0,3,,10,0,3,,Cork Keeper Kick out
+13:51,00:13:51,Cork,12,Pass,No,0,No,No,N/A,No,N/A,No,"0--03,1--02",0,0,0,0,3,,10,0,3,,Player 12 caught kick-out
+13:14,00:13:14,Cork ,11,Foul,No,0,No,No,N/A,No,N/A,,"0--03,1--02",0,0,0,0,3,,10,0,3,,Player 11 fouled by Galway
+13:06,00:13:06,Cork ,8,Foul,No,0,Yes,No,N/A,No,N/A,,"0--03,1--02",0,0,0,1,3,,10,0,3,,"Player 8 fouled, free kick awarded"
+12:34,00:12:34,Cork ,14,Free Kick,No,0,No,Yes,Successful,No,N/A,,"0--04,1--02",0,0,0,0,4,,10,0,3,,Successful free kick
+12:26,00:12:26,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0--04,1--02",0,0,0,0,4,,10,1,3,,Galway Keeper Kick Out
+11:49,00:11:49,Galway,4,Pass,No,0,Yes,No,N/A,No,N/A,Yes,"0--04,1--02",0,0,0,0,4,,10,0,3,,Lost Possession to Cork
+11:49,00:11:49,Cork,3,Interception,Yes,1,No,No,N/A,No,N/A,,"0--04,1--02",0,0,0,0,4,,10,0,3,,Ball changed to cork
+11:28,00:11:28,Cork ,15,Pass,No,0,Yes,No,N/A,No,N/A,,"0--04,1--02",0,0,0,0,4,,10,0,3,,Lost Possession to Galway
+11:28,00:11:28,Galway,11,Interception,Yes,1,No,No,N/A,No,N/A,Yes,"0--04,1--02",0,0,0,0,4,,10,1,3,,Ball intercepted from Cork
+11:01,00:11:01,Galway,5,Pass,No,0,Yes,No,N/A,No,N/A,,"0--04,1--02",0,0,0,0,4,,10,0,3,,Lost Possession to Cork
+11:01,00:11:01,Cork,10,Interception,Yes,1,No,No,N/A,No,N/A,Yes,"0--04,1--02",0,0,0,0,4,,10,0,3,,Tackled and gained possession
+10:59,00:10:59,Galway,14,Foul,No,0,No,No,N/A,No,N/A,,"0--04,1--02",0,0,0,0,4,,10,0,3,,Player 14 intentional foul.
+10:21,00:10:21,Cork,14,Foul,No,0,No,No,N/A,No,N/A,,"0--04,1--02",0,0,0,0,4,,10,0,3,,Cork Player 14 fouled by galway
+09:53,00:09:53,Cork,14,Free Kick,No,0,Yes,Yes,Successful,No,N/A,,"0--05,1--02",0,0,0,1,5,,10,0,4,,Successful free kick
+09:40,00:09:40,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0--05,1--02",0,0,0,0,5,,11,1,3.636363636,,Galway Keeper Kick Out
+08:59,00:08:59,Cork,10,Foul,No,0,No,No,N/A,No,N/A,,"0--05,1--02",0,0,0,0,5,,11,0,3.636363636,,Player 10 fouled by Cork
+08:22,00:08:22,Galway,15,Shot Attempt,No,0,Yes,Yes,Unsuccessful wide,No,N/A,,"0--05,1--02",0,0,0,0,5,,11,0,3.636363636,,Shot went wide
+08:10,00:08:10,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,,"0--05,1--02",0,0,0,0,5,,11,0,3.636363636,,Cork Keeper Kick out
+07:15,00:07:15,Cork,13,Shot Attempt,No,0,Yes,Yes,Unsuccessful,No,N/A,,"0--05,1--02",0,0,0,0,5,,11,0,3.636363636,,Player 13 Shot unsuccessful
+06:59,00:06:59,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0--05,1--02",0,0,0,0,5,,12,1,3.333333333,,Galway Keeper Kick Out
+06:13,00:06:13,Cork ,"15,17",Substitution,No,0,No,No,N/A,No,N/A,,"0--05,1--02",0,0,0,0,5,,12,0,3.333333333,,"Player 15 out due to injury, player 17 in"
+06:05,00:06:05,Galway,9,Interception,No,0,Yes,No,N/A,No,N/A,Yes,"0--05,1--02",0,0,0,0,5,,12,0,3.333333333,,Player 9 intercepted
+05:46,00:05:46,Cork,7,Kick Out,Yes,1,No,No,N/A,Yes,Cork,,"0--05,1--02",0,0,0,0,5,,12,0,3.333333333,,Player 7 Kick Out
+05:02,00:05:02,Cork,9,Pass,No,0,Yes,No,N/A,No,N/A,,"0--05,1--02",0,0,0,0,5,,12,0,3.333333333,,Lost Possession to Galway
+05:02,00:05:02,Galway,4,Interception,Yes,1,No,No,N/A,No,N/A,Yes,"0--05,1--02",0,0,0,0,5,,13,1,3.076923077,,Player 4 interception
+04:39,00:04:39,Cork,8,Foul,No,0,No,No,N/A,No,N/A,,"0--05,1--02",0,0,0,0,5,,13,0,3.076923077,,Player 8 foul
+04:20,00:04:20,Galway,15,Free Kick,No,0,Yes,Yes,Successful,No,N/A,,"0--05,1--03",0,1,0,0,5,,13,0,3.076923077,,Successful free kick
+04:06,00:04:06,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,N/A,,"0--05,1--03",0,0,0,0,5,,13,0,3.076923077,,Cork Keeper Kick out
+03:58,00:03:58,Cork,4,Foul,No,0,Yes,No,N/A,No,N/A,,"0--05,1--03",0,0,0,0,5,,13,0,3.076923077,,Cork player foul
+03:39,00:03:39,Galway,9,Pass,Yes,1,No,No,N/A,No,N/A,Yes,"0--05,1--03",0,0,0,0,5,,14,1,2.857142857,,Possession gained by galway
+03:09,00:03:09,Galway,9,Shot Attempt,No,0,Yes,Yes,Successful,No,N/A,,"0--05,2--03",1,0,0,0,5,,14,0,2.857142857,,Successful goal by player 9
+02:46,00:02:46,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,,"0--05,2--03",0,0,0,0,5,,14,0,2.857142857,,Cork Keeper Kick out
+01:48,00:01:48,Cork,13,Pass,No,0,Yes,No,N/A,No,N/A,,"0--05,2--03",0,0,0,0,5,,14,0,2.857142857,,Lost Possession to Galway
+01:48,00:01:48,Galway ,12,Interception,Yes,1,No,No,N/A,No,N/A,Yes,"0--05,2--03",0,0,0,0,5,,15,0,2.666666667,,Possession gained by galway
+00:14,00:00:14,Cork,8,Foul,No,0,No,No,N/A,No,N/A,,"0--05,2--03",0,0,0,0,5,,15,0,2.666666667,,Player 8 foul
+00:03,00:00:03,Galway,15,Free Kick,No,0,Yes,Yes ,Successful,No,N/A,,"0--05,2--04",0,1,0,0,5,,15,0,2.666666667,,Successful free kick
+Half Time,00:00:00,,,,,0,,,,,,,"0--05,2--04",0,0,0,0,5,,15,0,2.666666667,,
+27:39:00,00:27:39,Galway,13,Shot,No,0,Yes,Yes,Missed Goal,No,N/A,,"0--05,2--04",0,0,0,0,5,,15,0,2.666666667,,Galway attempted goal shot; missed net
+27:37:00,00:27:37,Cork,9,Turnover,Yes,1,No,No,N/A,No,N/A,Yes,"0--05,2--04",0,0,0,0,5,,15,0,2.666666667,,Corkgets the bouncing ball straight away
+27:32:00,00:27:32,Galway,,Injury,No,0,No,No,N/A,No,N/A,,"0--05,2--04",0,0,0,0,5,,15,0,2.666666667,,
+26:45:00,00:26:45,Cork,11,Point Scores,No,0,Yes,Yes,Point,No,N/A,,"0.06, 2.04",0,0,0,1,6,,15,0,3.333333333,,Cork scored a point
+26:31:00,00:26:31,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0.06, 2.04",0,0,0,0,6,,16,1,3.125,,Galway restarts after Cork point
+26:28:00,00:26:28,Galway,7,Possession,No,0,No,No,N/A,No,N/A,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Galway player caught the ball from GK
+25:35:00,00:25:35,Cork,5,Foul Committed,No,0,No,No,N/A,No,N/A,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Cork foul on Galway; free awarded to Galway
+24:55:00,00:24:55,Galway,15,Free Kick,No,0,Yes,Yes,Wide,No,N/A,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Galway shot goes wide
+24:46:00,00:24:46,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Cork kick-out after Galway wide
+24:44:00,00:24:44,Cork,4,Possession,No,0,No,No,N/A,No,N/A,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Cork player 4 received the kick-out
+23:57,00:23:57,Galway,5,Stoppage,No,0,Yes,No,N/A,No,N/A,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Galway player fell; referee stopped play
+23:56,00:23:56,Galway,,Free Kick,Yes,1,Yes,No,N/A,No,N/A,Yes,"0.06, 2.04",0,0,0,0,6,,16,1,3.125,,Galway long free kick to Cork territory
+23:40,00:23:40,Cork,8,Possession,Yes,1,No,No,N/A,No,N/A,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Cork 8 caught Galway's free kick
+23:30,00:23:30,Cork,17,Shot,No,0,Yes,Yes,Saved,No,N/A,,"0.06, 2.04",0,0,0,0,6,,16,0,3.125,,Cork shot saved by Galway GK
+23:25,00:23:25,Galway,3,Possession,Yes,1,No,No,N/A,No,N/A,,"0.06, 2.04",0,0,0,0,6,,17,1,2.941176471,,Received pass from GK
+22:59,00:22:59,Galway,4,Turnover,No,0,Yes,No,N/A,No,N/A,Yes,"0.06, 2.04",0,0,0,0,6,,17,0,2.941176471,,"Galway 4 fell, ball loose "
+22:57,00:22:57,Cork,6,Possession,Yes,1,No,No,N/A,No,N/A,,"0.06, 2.04",0,0,0,0,6,,17,0,2.941176471,,Gained possession from loose ball
+21:58,00:21:58,Cork,14,Point Scores,No,0,Yes,Yes,Point,No,N/A,,"0.07, 2.04",0,0,0,1,7,,17,0,3.529411765,,Cork scored a point
+21:40,00:21:40,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Cork,,"0.07, 2.04",0,0,0,0,7,,18,1,3.333333333,,Galway restarts after Cork point
+21:35,00:21:35,Cork,17,Possession,No,0,No,No,N/A,No,N/A,,"0.07, 2.04",0,0,0,0,7,,18,0,3.333333333,,Cork player caught the ball from Galway GK
+21:23,00:21:23,Cork,9,Turnover,No,0,Yes,No,N/A,No,N/A,Yes,"0.07, 2.04",0,0,0,0,7,,18,0,3.333333333,,"Cork 9 fell, ball loose "
+21:22,00:21:22,Galway,6,Possession,Yes,1,No,No,N/A,No,N/A,,"0.07, 2.04",0,0,0,0,7,,19,1,3.157894737,,Won possession by tackle
+20:10,00:20:10,Cork,8,Foul Committed,No,0,No,No,N/A,No,N/A,,"0.07, 2.04",0,0,0,0,7,,19,0,3.157894737,,Cork foul on Galway; free awarded to Galway
+20:06,00:20:06,Galway,10,Free Kick,No,0,Yes,Yes,Point,No,N/A,,"0.07,2.05",0,1,0,0,7,,19,0,3.157894737,,Galway scored a point
+19:58,00:19:58,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0.07,2.05",0,0,0,0,7,,19,0,3.157894737,,Cork kick-out after Galway point
+19:54,00:19:54,Galway,8,Possession,No,0,No,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,19,0,3.157894737,,Cork player 8 received the kick-out
+19:10,00:19:10,Cork,19,Shot,No,0,Yes,Yes,Missed Goal,No,N/A,,"0.07,2.05",0,0,0,0,7,,19,0,3.157894737,,Cork attempted goal shot; missed net
+18:57,00:18:57,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0.07,2.05",0,0,0,0,7,,20,1,3,,Galway kick-out after Galway missed net
+18:53,00:18:53,Galway,12,Possession,No,0,No,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,20,0,3,,Galway player 12 received the kick-out
+18:10,00:18:10,Galway,13,Stoppage,No,0,Yes,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,20,0,3,,"Galway player fell with Cork player, ref whistle"
+18:08,00:18:08,Cork,9,Possession,Yes,1,No,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,20,0,3,,Cork gained loose ball after stoppage
+18:04,00:18:04,Cork,9,Long Kick,No,0,Yes,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,20,0,3,,Launched high ball after restart
+18:00,00:18:00,Galway,6,Possession,Yes,1,No,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,21,1,2.857142857,,Caught Cork's long kick
+17:47,00:17:47,Galway,12,Ball out,No,0,Yes,No,N/A,No,N/A,Yes,"0.07,2.05",0,0,0,0,7,,21,0,2.857142857,,Kicked over endline
+17:35,00:17:35,Cork,Goal Keeper,45m Free,Yes,1,No,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,21,0,2.857142857,,45m free kick
+17:33,00:17:33,Cork,9,,No,0,No,No,N/A,No,N/A,,"0.07,2.05",0,0,0,0,7,,21,0,2.857142857,,Cork player 12 received the kick-out
+16:59,00:16:59,Cork,10,Point Scores,No,0,Yes,Yes,Point,No,N/A,,"0.07,2.05",0,0,0,1,7,,21,0,3.333333333,,Cork scored a point
+16:38,00:16:38,Galway,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0.08,2.05",0,0,0,0,8,,22,1,3.181818182,,Galway restarts after Cork point
+16:35,00:16:35,Galway,7,Possession,No,0,No,No,N/A,No,N/A,,"0.08,2.05",0,0,0,0,8,,22,0,3.181818182,,Galway player caught the ball from GK
+15:33,00:15:33,Cork,12,Foul Committed,No,0,No,No,N/A,No,N/A,,"0.08,2.05",0,0,0,0,8,,22,0,3.181818182,,Cork foul on Galway; free awarded to Galway
+14:51,00:14:51,Galway,15,Free Kick,No,0,Yes,Yes,Wide,No,N/A,,"0.08,2.05",0,0,0,0,8,,22,0,3.181818182,,Galway shot goes wide
+14:39,00:14:39,Cork,Goal Keeper,Kick Out,Yes,1,No,No,N/A,Yes,Galway,,"0-08, 2-06",0,1,0,0,8,,22,0,3.181818182,,
+14:36,00:14:36,Cork,,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,23,0,3.043478261,,
+14:29,00:14:29,Cork,27,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08,2-06",0,0,0,0,8,,24,0,2.916666667,,
+14:25,00:14:25,Cork,17,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08,2-06",0,0,0,0,8,,25,0,2.8,,
+14:14,00:14:14,Cork,,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08,2-06",0,0,0,0,8,,26,0,2.692307692,,
+14:09,00:14:09,Cork,,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08,2-06",0,0,0,0,8,,27,0,2.592592593,,
+14:07,00:14:07,Cork,,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08,2-06",0,0,0,0,8,,28,0,2.5,,
+14:04,00:14:04,Galway,,Shot,Yes,1,Yes,Yes,Wide,No,N/A,Yes,"0-08, 2-06",0,0,0,0,8,,29,1,2.413793103,,
+13:58,00:13:58,Cork,Goal Keeper,Kick out,No,0,Yes,No,N/A,Yes,Galways,Yes,"0-08, 2-06",0,0,0,0,8,,29,0,2.413793103,,ball won by galway after cork kickout
+13:48,00:13:48,Galway,,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,30,1,2.333333333,,
+13:44,00:13:44,Galway,17,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,30,1,2.333333333,,
+13:38,00:13:38,Galway,11,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,30,1,2.333333333,,
+13:26,00:13:26,Galway,14,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,30,1,2.333333333,,pass
+13:19,00:13:19,Cork,3,Turnover,Yes,1,Yes,,N/A,No,N/A,Yes,"0-08, 2-06",0,0,0,0,8,,30,0,2.333333333,,"turnover, cork won the ball"
+13:14,00:13:14,Cork,12,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,31,0,2.258064516,,
+13:07,00:13:07,Cork,12,Foul Committed,No,0,No,No,N/A,No,N/A,Yes,"0-08, 2-06",0,0,0,0,8,,31,0,2.258064516,,galway commited a foul
+13:03,00:13:03,Galway,,Free Kick,Yes,1,No,No,N/A,No,N/A,Yes,"0-08, 2-06",0,0,0,0,8,,32,1,2.1875,,
+12:55,00:12:55,Galway,2,Possession,Yes,1,No,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,32,1,2.1875,,pass made
+12:00,00:12:00,Galway,6,Possession,Yes,1,No,No,N/A,No,N/A,No,"0-08, 2-06",0,0,0,0,8,,32,1,2.1875,,pass made
+11:34,00:11:34,Cork,12,Turnover,Yes,1,Yes,No,N/A,No,N/A,Yes,"0-08, 2-06",0,0,0,0,8,,32,0,2.1875,,ball won by cork - turnover
+10:42,00:10:42,Cork,21,Goal,Yes,1,Yes,Yes,Wide,No,N/A,,"0-08, 2-06",0,0,0,0,8,,33,0,2.121212121,,ball goes over the bar
+10:30,00:10:30,Galway,goal keeper,Kick Out,Yes,1,No,No,N/A,No,Galway,No,"0-08, 2-06",0,0,0,0,8,,34,1,2.058823529,,
+10:12,00:10:12,Galway,18,Possession,Yes,1,No,No,N/A,No,N/A,No,"0-08, 2-06",0,0,0,0,8,,34,1,2.058823529,,
+09:49,00:09:49,Galway,6,Foul Committed,Yes,1,Yes,No,N/A,No,N/A,,"0-08, 2-06",0,0,0,0,8,,34,1,2.058823529,,foul commited by cork
+09:20,00:09:20,Galway,15,Kick Out,Yes,1,Yes,Yes,Point (over the bar),Yes,Galway,No,"0-08,2-07",0,1,0,0,8,,34,1,2.058823529,,"8 ,13 goal scored over the bar by galway"
+09:00,00:09:00,Cork,Goal Keeper,Kick Out,Yes,1,Yes,No,N/A,Yes,Galway,Yes,"0,08.2-07",0,0,0,0,8,,34,0,2.058823529,,cork kick out won by galway
+07:50,00:07:50,Cork,9,Foul Committed,No,0,Yes,No,N/A,Yes,Galway,Yes,"0,08,2-07",0,0,0,0,8,,34,0,2.058823529,,foul commited by cork
+07:15,00:07:15,Galway,8,out of play,Yes,1,Yes,No,N/A,No,N/A,Yes,"0-08,2-07",0,0,0,0,8,,35,1,2,,
+07:00,00:07:00,Cork,Goal Keeper,Kick Out,Yes,1,No,,N/A,Yes,Cork,No,"0-08,2-07",0,0,0,0,8,,35,0,2,,"ball kicked out of play by galway, turnover"
+06:34,00:06:34,Cork,14,Goal,Yes,1,No,Yes,Point over the bar,No,N/A,No,"0-09,2-07",0,0,0,1,9,,36,0,1.944444444,,"goal by cork, over the bar, 1 point, 9--13"
+05:41,00:05:41,Cork,19,Foul Committed,Yes,1,Yes,No,N/A,No,N/A,Yes,"0-09,2-07",0,0,0,0,9,,37,0,1.891891892,,"foul commited by cork, turnover"
+04:21,00:04:21,Galway,17,Shot,Yes,1,Yes,Yes,Unsuccessful,Yes,Cork,Yes,"0-09, 2-07",0,0,0,0,9,,38,1,1.842105263,,
+03:39,00:03:39,Galway,12,Foul Committed,Yes,1,No,No,N/A,Yes,Galway,Yes,"0-09,2-07",0,0,0,0,9,,38,1,1.842105263,,foul commited by cork
+02:34,00:02:34,Galway,24,Turnover,Yes,1,Yes,No,N/A,No,N/A,Yes,"0-09,2-07",0,0,0,0,9,,38,1,1.842105263,,ball won by galway
+02:09,00:02:09,Cork,12,Foul Committed,No,0,No,No,N/A,No,N/A,No,"0-09,2-07",0,0,0,0,9,,38,0,1.842105263,,"foul commited by cork, galway's ball"
+02:00,00:02:00,Galway,14,Foul Committed,No,0,No,No,N/A,Yes,Cork,Yes,"0,09-2-07",0,0,0,0,9,,38,0,1.842105263,,"foul commited by galway , cork's ball"
+00:34,00:00:34,Cork,11,Goal,Yes,1,Yes,Yes,Point over the bar,No,N/A,No,"0-10,2-07",0,0,0,1,10,,38,0,1.842105263,,cork scored a goal 10--13
+00:00,00:00:00,Galway,13,Foul Committed,No,0,Yes,Yes,Ball intercepted by galway,No,N/A,Yes,"0-10,2-07",0,0,0,0,10,,38,0,1.842105263,,"shot at goal, intercepted by galway"
